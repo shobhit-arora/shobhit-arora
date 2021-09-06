@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science and analytics
 - 🌱 I’m currently learning Pandas
 - 💞️ I’m looking to collaborate on football analytics
-- 📫 How to reach me linkedin.com/in/shobhit-arora
+- 📫 Reach me @ linkedin.com/in/shobhit-arora
 
 <!---
 shobhit-arora/shobhit-arora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
