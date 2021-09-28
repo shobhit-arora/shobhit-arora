@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shobhit-arora
-- 👀 I’m interested in data science and analytics
+- 👀 I’m interested in data engineering and analytics
 - 🌱 I’m currently learning a lot of stuff at once
 - 💞️ I’m looking to collaborate on football analytics
 - 📫 Reach me @ shobhitarora4@gmail.com
